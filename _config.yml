@@ -1,1 +1,8 @@
+title: NTU-MIGG's project list
+description:
+google_analytics:
+show_downloads:
 theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
