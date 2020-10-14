@@ -1,4 +1,3 @@
-- [MIGG-NTU's homepage](https://www.ntu.edu.sg/home/tongping)
-    - [MIGG-NTU academic](https://migg-ntu.github.io/academic/)
+- [MIG homepage](https://personal.ntu.edu.sg/tongping)
 - [MIG Docs](https://migg-ntu.github.io/MIG_Docs/)
-
+- [MIG Groupmeeting](https://blogs.ntu.edu.sg/geophysics/)
