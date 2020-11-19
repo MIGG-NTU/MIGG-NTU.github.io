@@ -1,3 +1,5 @@
-- [MIG Homepage](https://personal.ntu.edu.sg/tongping)
-- [MIG User Docs](https://migg-ntu.github.io/MIG_Docs/)
+- [MIG Homepage](https://personal.ntu.edu.sg/tongping/)
+- [MIG Documentation](https://migg-ntu.github.io/MIG_Docs/)
 - [MIG Groupmeeting](https://blogs.ntu.edu.sg/geophysics/)
+- [Seismic Body-wave Traveltime Tomography Tutorials](https://migg-ntu.github.io/SeisTomo_Tutorials/)
+- [Geosciences in Myanmar](https://migg-ntu.github.io/geosciences_Myanmar/)
